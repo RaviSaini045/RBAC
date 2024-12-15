@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QnA_HexaWealth/static/css/main.4cf82547.css",
+    "main.js": "/QnA_HexaWealth/static/js/main.d4162cbf.js",
+    "static/js/453.ed3810f9.chunk.js": "/QnA_HexaWealth/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/QnA_HexaWealth/index.html",
+    "main.4cf82547.css.map": "/QnA_HexaWealth/static/css/main.4cf82547.css.map",
+    "main.d4162cbf.js.map": "/QnA_HexaWealth/static/js/main.d4162cbf.js.map",
+    "453.ed3810f9.chunk.js.map": "/QnA_HexaWealth/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cf82547.css",
+    "static/js/main.d4162cbf.js"
+  ]
+}
